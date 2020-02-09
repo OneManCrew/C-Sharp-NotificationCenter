@@ -1,0 +1,5 @@
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\NotificationCenter\bin\Debug\NotificationCenter.dll
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\NotificationCenter\bin\Debug\NotificationCenter.pdb
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\NotificationCenter\obj\Debug\ResolveAssemblyReference.cache
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\NotificationCenter\obj\Debug\NotificationCenter.dll
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\NotificationCenter\obj\Debug\NotificationCenter.pdb

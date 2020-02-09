@@ -1,0 +1,13 @@
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\bin\Debug\TestNotificationCenter.exe
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\bin\Debug\TestNotificationCenter.pdb
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\TestNotificationCenter.Light.resources
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\TestNotificationCenter.MainScreen.resources
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\TestNotificationCenter.Properties.Resources.resources
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\TestNotificationCenter.Switch.resources
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\TestNotificationCenter.exe
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\obj\x86\Debug\TestNotificationCenter.pdb
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\bin\Debug\NotificationCenter.dll
+c:\users\the one man crew\documents\visual studio 2010\Projects\NotificationCenter\TestNotificationCenter\bin\Debug\NotificationCenter.pdb
